@@ -23,7 +23,7 @@ URL : /services/apexrest/ProductInformation?UUID=f8ebf35a-3e48-4af1-adaa-6d5cc2f
 Apex Class
 MyRestResource
 
-Given Tables in the case study are stored as Custom Metadata "Product__mdt" .
+Given Tables in the case study are stored as Custom Metadata "Product__mdt" . The reason for the customMetdata approach is these are customizable, deployable easily . Compared to the custom objects and custom settings these are robust and Faster.
 
 Test Classes
 MyRestResourceTest
