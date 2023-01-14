@@ -1,0 +1,22 @@
+<template>
+    <div class="c-container">
+        <lightning-card  title="Product Information" >
+            <template if:true={informationAvailable}>
+                <div class="slds-grid slds-p-around_small">
+                    <div class="slds-col" >
+                    <p>Product Name :<lightning-formatted-text value={productName} ></lightning-formatted-text></p>
+                    <p>Cost Per Calendar Month :<lightning-formatted-text value={valueOfCostPerMonth} ></lightning-formatted-text></p>
+                    <p>ATM Fee In Other Countries :<lightning-formatted-text value={valueOfAtmFee} ></lightning-formatted-text></p>
+                    </div>
+                    <div class="slds-col" >
+                    <p>Home Country :<lightning-formatted-text value={homeCountry} ></lightning-formatted-text></p>
+                    <p>Card Replacement Cost :<lightning-formatted-text value={valueOfReplacementCost}></lightning-formatted-text></p>
+                    </div>
+                </div>
+            </template>
+            <template if:false={informationAvailable}>
+                <P>There is no Product Information Available to this Case</P>
+            </template>
+        </lightning-card>
+    </div>
+</template>
