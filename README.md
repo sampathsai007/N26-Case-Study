@@ -31,11 +31,7 @@ ProductInformationControllerTest
 
 ![Screenshot 2023-01-14 at 11 12 21 PM](https://user-images.githubusercontent.com/48951014/212499552-15c7d283-0ae7-425b-ad66-82bb282ff570.png)
 ![Screenshot 2023-01-14 at 11 11 48 PM](https://user-images.githubusercontent.com/48951014/212499575-1da45a2c-6aff-420e-8f28-9f3143ef4eaf.png)
-![Screenshot 2023-01-12 at 11 18 30 AM](https://user-images.githubusercontent.com/48951014/212499579-15b0beb4-6c92-47c1-85c2-e3434d0aed7a.png)
-
-
-
-
+![Screenshot 2023-01-14 at 11 10 17 PM](https://user-images.githubusercontent.com/48951014/212499609-bfb4c45e-df87-481e-9587-89e4baa749f0.png)
 
 
 
